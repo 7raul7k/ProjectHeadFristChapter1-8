@@ -1,0 +1,10 @@
+cat,Popovici,Darius,Lucy
+dog,Popescu,Ion,Max
+dog,Ursu,Andrei,Azorel
+cat,Borcea,Cristian,Oscar
+cat,Ciorba,Augustin,Luna
+rabbit,Florian,Robert,Coco
+rabbit,Enescu,Filip,Angel
+dog,Gheorghe,Tudor,Ursu
+cat,Zamfir,Alin,Bella
+dog,Ionescu,Denis,Charlie

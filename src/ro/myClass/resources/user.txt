@@ -1,0 +1,10 @@
+Popovici,Darius,20,popovicidarius@gmail.com,popovicidarius@gmail.com2022
+Popescu,Ion,22,popoescuion@gmail.com,popoescuion@gmail.com2022
+Ursu,Andrei,22,ursuandrei@gmail.com,ursuandrei@gmail.com2022
+Borcea,Cristian,19,borceacristian@gmail.com,borceacristian@gmail.com2022
+Ciorba,Augustin,20,ciorbaaugustin@gmail.com,ciorbaaugustin@gmail.com2022
+Florian,Robert,23,florianrobert@gmail.com,florianrobert@gmail.com2022
+Enescu,Filip,24,enescufilip@gmail.com,enescufilip@gmail.com2022
+Gheorghe,Tudor,19,gheorghetudor@gmail.com,gheorghetudor@gmail.com2022
+Zamfir,Alin,25,zamfiralin@gmail.com,zamfiralin@gmail.com2022
+Ionescu,Denis,26,ionescudenis@gmail.com,ionescudenis@gmail.com2022
